@@ -1,0 +1,5 @@
+/* Increase the max-width of the content */
+.inner {
+    max-width: 1000px; /* Adjust as needed */
+    width: 100%;
+}

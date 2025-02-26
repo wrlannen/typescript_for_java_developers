@@ -1,0 +1,21 @@
+title: TypeScript for Java Developers
+description: >-
+  A guide for Java developers to transition seamlessly to TypeScript with key concepts and best practices.
+
+# Use Slate (official GitHub Pages theme)
+theme: jekyll-theme-slate
+
+# Enable syntax highlighting for code blocks
+markdown: kramdown
+highlighter: rouge
+
+# Ensure Jekyll recognizes the homepage
+header_pages:
+  - index.md
+
+# Exclude unnecessary files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
